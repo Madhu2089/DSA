@@ -8,6 +8,7 @@
 | [3633-earliest-finish-time-for-land-and-water-rides-i](https://github.com/Madhu2089/DSA/tree/master/3633-earliest-finish-time-for-land-and-water-rides-i) |
 | [3689-maximum-total-subarray-value-i](https://github.com/Madhu2089/DSA/tree/master/3689-maximum-total-subarray-value-i) |
 | [3691-maximum-total-subarray-value-ii](https://github.com/Madhu2089/DSA/tree/master/3691-maximum-total-subarray-value-ii) |
+| [3838-weighted-word-mapping](https://github.com/Madhu2089/DSA/tree/master/3838-weighted-word-mapping) |
 ## Two Pointers
 |  |
 | ------- |
@@ -46,4 +47,12 @@
 |  |
 | ------- |
 | [3691-maximum-total-subarray-value-ii](https://github.com/Madhu2089/DSA/tree/master/3691-maximum-total-subarray-value-ii) |
+## String
+|  |
+| ------- |
+| [3838-weighted-word-mapping](https://github.com/Madhu2089/DSA/tree/master/3838-weighted-word-mapping) |
+## Simulation
+|  |
+| ------- |
+| [3838-weighted-word-mapping](https://github.com/Madhu2089/DSA/tree/master/3838-weighted-word-mapping) |
 <!---LeetCode Topics End-->
