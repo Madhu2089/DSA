@@ -15,6 +15,7 @@
 | ------- |
 | [0005-longest-palindromic-substring](https://github.com/Madhu2089/DSA/tree/master/0005-longest-palindromic-substring) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/Madhu2089/DSA/tree/master/0026-remove-duplicates-from-sorted-array) |
+| [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/Madhu2089/DSA/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [3633-earliest-finish-time-for-land-and-water-rides-i](https://github.com/Madhu2089/DSA/tree/master/3633-earliest-finish-time-for-land-and-water-rides-i) |
 ## Binary Search
 |  |
@@ -55,6 +56,7 @@
 | ------- |
 | [0005-longest-palindromic-substring](https://github.com/Madhu2089/DSA/tree/master/0005-longest-palindromic-substring) |
 | [0020-valid-parentheses](https://github.com/Madhu2089/DSA/tree/master/0020-valid-parentheses) |
+| [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/Madhu2089/DSA/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [3838-weighted-word-mapping](https://github.com/Madhu2089/DSA/tree/master/3838-weighted-word-mapping) |
 ## Simulation
 |  |
@@ -82,4 +84,8 @@
 |  |
 | ------- |
 | [0020-valid-parentheses](https://github.com/Madhu2089/DSA/tree/master/0020-valid-parentheses) |
+## String Matching
+|  |
+| ------- |
+| [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/Madhu2089/DSA/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 <!---LeetCode Topics End-->
