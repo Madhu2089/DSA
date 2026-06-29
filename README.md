@@ -5,6 +5,7 @@
 |  |
 | ------- |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/Madhu2089/DSA/tree/master/0026-remove-duplicates-from-sorted-array) |
+| [0035-search-insert-position](https://github.com/Madhu2089/DSA/tree/master/0035-search-insert-position) |
 | [2196-create-binary-tree-from-descriptions](https://github.com/Madhu2089/DSA/tree/master/2196-create-binary-tree-from-descriptions) |
 | [3633-earliest-finish-time-for-land-and-water-rides-i](https://github.com/Madhu2089/DSA/tree/master/3633-earliest-finish-time-for-land-and-water-rides-i) |
 | [3689-maximum-total-subarray-value-i](https://github.com/Madhu2089/DSA/tree/master/3689-maximum-total-subarray-value-i) |
@@ -20,6 +21,7 @@
 ## Binary Search
 |  |
 | ------- |
+| [0035-search-insert-position](https://github.com/Madhu2089/DSA/tree/master/0035-search-insert-position) |
 | [3633-earliest-finish-time-for-land-and-water-rides-i](https://github.com/Madhu2089/DSA/tree/master/3633-earliest-finish-time-for-land-and-water-rides-i) |
 ## Greedy
 |  |
