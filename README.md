@@ -52,6 +52,7 @@
 |  |
 | ------- |
 | [0005-longest-palindromic-substring](https://github.com/Madhu2089/DSA/tree/master/0005-longest-palindromic-substring) |
+| [0020-valid-parentheses](https://github.com/Madhu2089/DSA/tree/master/0020-valid-parentheses) |
 | [3838-weighted-word-mapping](https://github.com/Madhu2089/DSA/tree/master/3838-weighted-word-mapping) |
 ## Simulation
 |  |
@@ -73,4 +74,8 @@
 |  |
 | ------- |
 | [0005-longest-palindromic-substring](https://github.com/Madhu2089/DSA/tree/master/0005-longest-palindromic-substring) |
+## Stack
+|  |
+| ------- |
+| [0020-valid-parentheses](https://github.com/Madhu2089/DSA/tree/master/0020-valid-parentheses) |
 <!---LeetCode Topics End-->
