@@ -12,6 +12,7 @@
 ## Two Pointers
 |  |
 | ------- |
+| [0005-longest-palindromic-substring](https://github.com/Madhu2089/DSA/tree/master/0005-longest-palindromic-substring) |
 | [3633-earliest-finish-time-for-land-and-water-rides-i](https://github.com/Madhu2089/DSA/tree/master/3633-earliest-finish-time-for-land-and-water-rides-i) |
 ## Binary Search
 |  |
@@ -50,6 +51,7 @@
 ## String
 |  |
 | ------- |
+| [0005-longest-palindromic-substring](https://github.com/Madhu2089/DSA/tree/master/0005-longest-palindromic-substring) |
 | [3838-weighted-word-mapping](https://github.com/Madhu2089/DSA/tree/master/3838-weighted-word-mapping) |
 ## Simulation
 |  |
@@ -67,4 +69,8 @@
 |  |
 | ------- |
 | [0002-add-two-numbers](https://github.com/Madhu2089/DSA/tree/master/0002-add-two-numbers) |
+## Dynamic Programming
+|  |
+| ------- |
+| [0005-longest-palindromic-substring](https://github.com/Madhu2089/DSA/tree/master/0005-longest-palindromic-substring) |
 <!---LeetCode Topics End-->
